@@ -1,6 +1,10 @@
-## Hi there 👋
+##
 
-## Diego Martinez
+<div align="center">
+
+# Hi there 👋, I`m Diego Martinez
+
+</div>
 
 <div align="center">
     <div align="center">
@@ -8,13 +12,15 @@
     </div>
     <details>
         <summary align="center">
-            <img style="margin-left: 30px;" width="260em" src="public/logo/title.png">
+            <img style="margin-left: 30px; :hover {cursor: pointer}" width="260em" src="public/logo/title.png">
         </summary>
     </details>
     <div align="center">
         <img height="138em" src="public/logo/logo_button_light2.png">
     </div>
 </div>
+
+<br>
 
 <div align="center">
     <a href="https://github.com/DiegoMartinezRey" title="Diego Martinez">
