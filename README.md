@@ -1,8 +1,8 @@
-##
-
 <div align="center">
 
 # Hi there 👋, I`m Diego Martinez
+
+### Mechatronic engineer | Full Stack developer
 
 </div>
 
@@ -10,10 +10,12 @@
     <div align="center">
         <img height="130em" src="public/logo/logo_top_light2.png">
     </div>
+    <img style="margin-left: 40px;" width="280em" src="public/logo/title.png">
     <details>
         <summary align="center">
-            <img style="margin-left: 30px; :hover {cursor: pointer}" width="260em" src="public/logo/title.png">
+            BIO
         </summary>
+        <p>Professional in mechatronics engineering 🤖 with experience in the area of technical service, automation, programming, commercial support and formulation of project solutions, with knowledge in areas of technological development and management⚒️. I am a person passionate about technology and application development 👨‍💻 where I have learned to adapt to changes and the different dynamics that arise in the digital field developing activities in a teamwork environment. I seek to expand my knowledge as a full stack developer from new experiences in different productive areas 🚀 contributing my knowledge to continue growing both in my personal and professional life.🌏</p>
     </details>
     <div align="center">
         <img height="138em" src="public/logo/logo_button_light2.png">
