@@ -1,8 +1,19 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMartinezRey&show_icons=true&theme=radical)
+## Diego Martinez
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMartinezRey&size_weight=0.5&count_weight=0.5)
+<div align="center">
+    <a href="https://github.com/DiegoMartinezRey" title="Diego Martinez">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoMartinezRey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoMartinezRey&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</div>
+
+<div align=center>
+    <a href="https://github.com/DiegoMartinezRey" title="Diego Martinez">
+        <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=DiegoMartinezRey&theme=algolia&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
+    </a>
+</div>
 <!--
 **DiegoMartinezRey/DiegoMartinezRey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
