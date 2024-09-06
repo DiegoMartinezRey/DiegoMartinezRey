@@ -10,16 +10,11 @@
     <div align="center">
         <img height="130em" src="public/logo/logo_top_light2.png">
     </div>
-    <details>
-        <summary align="center">
-            OPEN BIO
-        </summary>
-        <img style="margin-left: 40px;" width="280em" src="public/logo/title.png">
-        <p>Professional in mechatronics engineering 🤖 with experience in the area of technical service, automation, programming, commercial support and formulation of project solutions, with knowledge in areas of technological development and management⚒️. I am a person passionate about technology and application development 👨‍💻 where I have learned to adapt to changes and the different dynamics that arise in the digital field developing activities in a teamwork environment. I seek to expand my knowledge as a full stack developer from new experiences in different productive areas 🚀 contributing my knowledge to continue growing both in my personal and professional life.🌏</p>
-    </details>
     <div align="center">
         <img height="138em" src="public/logo/logo_button_light2.png">
     </div>
+        <br>
+        <p>Professional in mechatronics engineering and Full-Stack developer 🤖 with experience in technical service, automation and programming, specialised in React and Node.js 👨‍💻. Throughout my career in mechatronics engineering, I have developed a solid track record in creating technological solutions and managing innovation-oriented projects. My experience encompasses commercial and technical support, formulation of project solutions and teamwork within changing dynamics. Passionate about technology, I am looking for a new challenge where I can continue to grow as a full stack developer 🚀, contributing my knowledge in the development of efficient and scalable web applications, contributing to the success of the business. I adapt quickly to new environments, and my multidisciplinary experience allows me to understand customer needs and deliver high quality products 🌏.</p>
 </div>
 
 <br>
